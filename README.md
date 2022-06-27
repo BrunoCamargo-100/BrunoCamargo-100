@@ -21,3 +21,9 @@
   <a href="https://www.linkedin.com/in/bruno-camargo-8b450619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/brunocamargo100" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" tarket="_blank"</a>
 </div>
+
+  ##
+  
+  ### Sobre mim !!! 🍃🍃
+  Meu nome é Bruno e atualmente sou estudante no curso de Análise e Desenvolvimento de Sistemas na Fatec de Ribeirão Preto-SP. Em minhas experiências de trabalho, aprendi a importância do profissionalismo e do trabalho em equipe, o que me tornou uma pessoa mais flexível e amigável a novas ideias.
+Foi em 2020 meu primeiro contato com a programação e devo dizer que foi um "amor à primeira vista". Me encantei de tal forma que passei a buscar mais conhecimento, estudando, aprendendo e buscando ajudar o máximo de pessoas possível. Dessa forma espero que, juntos, possamos criar um mundo melhor através da tecnologia.
